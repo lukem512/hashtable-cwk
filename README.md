@@ -9,37 +9,37 @@ The aim of this coursework was to create a Hash Table, with an effective hash al
 
 The times recorded were as follows:
 
-looking
-  occurred 20 times
+	looking
+	occurred 20 times
 	list took 3046 comparisons
 	table took 1 comparison
 
-me
+	me
 	occurred 111 times
 	list took 4336 comparisons
 	table took 3
 
-attractive
+	attractive
 	occurred 1 time
 	list took 3 comparisons
 	table took 1 comparison
 
-please
+	please
 	occurred 4 times
 	list took 46 comparisons
 	table took 1 comparison
 
-where
+	where
 	occurred 35 times
 	list took 4056 comparisons
 	table took 2 comparisons
 	
-knock
+	knock
 	occurred 3 times
 	list took 341 comparisons
 	table took 1 comparison
 
-computer
+	computer
 	occurred 0 times
 	list took 4371 comparisons
 	table took 0 comparisons
