@@ -3,11 +3,11 @@ hashtable-cwk
 
 COMS11600 CW2 - Hash table to read A Christmas Carol and analyse word frequency
 
-The aim of this coursework was to create a Hash Table, with an effective hash algorithm that would store the frequency of words appearing in A Christmas Carol. A Linked List would also be used to do the same. Queries were given to be run against these data structures, to find the frequency of certain words, and the times were to be reported.
+This was a piece of coursework from the 1st year COMS11600 Principles of Programming CS unit at the University of Bristol. It was set in December 2011. The mark I received for this coursework was 80%.
 
-The hash algorithm I implemented is a rotated XOR hash.
+The aim of this coursework was to create a Hash Table, with an effective hash algorithm that would store the frequency of words appearing in A Christmas Carol. A Linked List would also be used to do the same. Queries were given to be run against these data structures, to find the frequency of certain words, and the times were to be reported. The hash algorithm I implemented is a rotated XOR hash.
 
-The times were as follows:
+The times recorded were as follows:
 
 looking
   occurred 20 times
