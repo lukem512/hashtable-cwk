@@ -1,8 +1,8 @@
 // Luke Mitchell
 // Linked List
 // 22-11-2011
-// edited 12/12/2011 for CW1 [100%]
-// edited 27/12/2011 for CW2
+// edited 12/12/2011
+// edited 27/12/2011
 
 #ifndef LIST_H
 #define LIST_H
