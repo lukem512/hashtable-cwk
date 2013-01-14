@@ -1,4 +1,4 @@
-// Luke Mitchell lm0466
+// Luke Mitchell
 
 #ifndef HASH_H
 #define HASH_H
