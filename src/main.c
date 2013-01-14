@@ -1,6 +1,4 @@
-/// Luke Mitchell lm0466
-// Principles of programming CW2
-// Hash table/Linked list assignment
+/// Luke Mitchell
 
 // Main program body
 // Reads a text file, populates a hash table and a linked list from the contents
