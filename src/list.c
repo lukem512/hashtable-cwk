@@ -1,4 +1,4 @@
-// Luke Mitchell lm0466
+// Luke Mitchell
 
 // Definition for linked list ADS
 
