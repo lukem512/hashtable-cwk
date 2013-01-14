@@ -1,6 +1,4 @@
 // Luke Mitchell lm0466
-// Principles of programming CW2
-// Hash table/Linked list assignment
 
 // Definition for linked list ADS
 
